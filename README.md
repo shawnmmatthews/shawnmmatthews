@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Shawn a Senior Software Developer at the Denver Regional Council of Governments. I specialize in Full-stack Javascript/Typescript (React, Next, and NodeJS) and data visualization. I have a working knowledge of Python, Redux, ElasticSearch, AWS, Serverless, Docker, GraphQL, and Go. 
 
 <!--
 **shawnmmatthews/shawnmmatthews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
