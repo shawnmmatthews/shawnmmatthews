@@ -1,6 +1,6 @@
 #### Hi there 👋, I'm Shawn a Senior Software Developer at the Denver Regional Council of Governments. I specialize in Full-stack JavaScript/TypeScript (React, Next.js, and Node) and data visualization. I have a working knowledge of AWS, Serverless, D3.js, Python, PHP, Go, Redux, GraphQL, PostgreSQL, MongoDB, DynamoDB, and Docker. Feel free to reach out and say hey!
 
-#### Here are a few of my recent projects.
+#### Here is some of my recent work 👇
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
