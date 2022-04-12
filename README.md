@@ -10,9 +10,6 @@
           <strong><a href="https://data.drcog.org">Denver Regional Data Catalog</a></strong>
         </th>
         <th>
-          <strong><a href="https://biketoworkday.us">Bike to Work Day</a></strong>
-        </th>
-        <th>
           <strong><a href="https://metrovision.drcog.org">Metro Vision</a></strong>
         </th>
       </tr>
@@ -24,14 +21,6 @@
             <img
               alt="The Regional Data Catalog is a repository of open data managed by the Denver Regional Council of Governments"
               src="https://shawnmmatthews.github.io/public/dataCatalog.jpg"
-            />
-          </a>
-        </td>
-        <td>
-          <a href="https://biketoworkday.us">
-            <img
-              alt="Each Bike to Work Day, we encourage commuters in the Denver region to bike to work."
-              src="https://shawnmmatthews.github.io/public/bikeToWorkDay.jpg"
             />
           </a>
         </td>
